@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mbui8
-- 👀 I’m interested in gastronomy
+- 👀 I’m interested in gastronomy, i like vietnamese food
 - 🌱 I’m currently learning dog training,  I’m looking to collaborate on simulation of complex systems
 
 <!---
